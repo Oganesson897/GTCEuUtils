@@ -4,6 +4,8 @@ A bunch of utils to make GregTechCE Unofficial easy to use.
 
 提供了一些工具来方便地使用GregTech CE Unoffcial，并且使用ZenScript编写。
 
+非常感谢GBL Jr.对我编写这些代码时提出的建议和修改。
+
 # 使用方式/Usage
 
 点击Code/Download ZIP下载，并将其解压在根目录下.scripts文件夹中。

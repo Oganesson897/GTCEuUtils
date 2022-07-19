@@ -7,7 +7,7 @@ function getIntegratedCircuit(circuitConfiguration as int) as IItemStack {
     return <gregtech:meta_item_1>.withTag({Configuration: circuitConfiguration});
 }
 
-<ore:integratedCircuit>.add(<gregtech:meta_item_1:461>);
+<ore:integratedCircuit>.add(<gregtech:meta_item_1:461>.withEmptyTag());
 
 //Valtage Coils
 

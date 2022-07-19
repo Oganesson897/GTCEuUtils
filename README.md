@@ -4,12 +4,11 @@ A bunch of utils to make GregTechCE Unofficial easy to use.
 
 提供了一些工具来方便地使用GregTech CE Unoffcial，并且使用ZenScript编写。
 
-========
 # 使用方式/Usage
 
-下载并将其解压在根目录下.scripts文件夹中。
+点击Code/Download ZIP下载，并将其解压在根目录下.scripts文件夹中。
 
-Download and unzip it in the .scripts folder in the root directory.
+Click the Code/Download ZIP,Download and unzip it in the .scripts folder in the root directory.
 
 需要安装CraftTweaker和GregTechCE Unofficial和DevTech（可选）。
 
